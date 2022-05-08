@@ -1,4 +1,4 @@
-# Multi Cluster Connectivity Options Overview
+# Is one Kubeernetes Cluster enough?
 
 ## Single vs Multi Cluster Architecture
 
