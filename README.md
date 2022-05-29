@@ -1,6 +1,6 @@
 # Is one Kubernetes Cluster enough?
 
-## Single vs Multi-Cluster Architecture
+## Single versus Multi-Cluster Architecture
 
 ## Connectivity Levels
 
