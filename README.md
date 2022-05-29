@@ -1,12 +1,12 @@
-# Is one Kubeernetes Cluster enough?
+# Is one Kubernetes Cluster enough?
 
-## Single vs Multi Cluster Architecture
+## Single vs Multi-Cluster Architecture
 
 ## Connectivity Levels
 
-## List of Porjects
+## List of Projects
 
-Good comparison: https://www.cncf.io/blog/2021/04/12/simplifying-multi-clusters-in-kubernetes/
+[Good comparison](https://www.cncf.io/blog/2021/04/12/simplifying-multi-clusters-in-kubernetes/)
 
 - [Submariner](https://submariner.io/)
 - [Skupper](https://github.com/skupperproject/skupper)
