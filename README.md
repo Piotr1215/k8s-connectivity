@@ -1,5 +1,24 @@
 # Is one Kubernetes Cluster enough?
 
+A single Kubernetes cluster provides an extremely flexible platform to design
+any complex distributed system. This also includes statefull workloads such as
+databases.
+
+![cluster-Architecture](./_media/k8s-architecture.png)
+
+For many scenarios a single cluster is enough.
+
+- scaleability achieved by increasing number of nodes from a node pool
+  > Kubernetes 1.24
+  > [supports](https://kubernetes.io/docs/setup/best-practices/cluster-large/#:~:text=Kubernetes%20v1.24%20supports%20clusters%20with%20up%20to%205000%20nodes)
+  > clusters up to **5000** nodes
+- workload isolation using namespaces
+
+When are multiple clusters needed.
+
+- there are already existing clusters that need to talk to each other
+- 
+
 ## Single versus Multi-Cluster Architecture
 
 ## Connectivity Levels
