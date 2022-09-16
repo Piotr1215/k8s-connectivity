@@ -17,9 +17,10 @@ For many scenarios a single cluster is enough.
 When are multiple clusters needed.
 
 - there are already existing clusters that need to talk to each other
-- 
+- strict security and workload isolation rules
+- cost factors
 
-## Single versus Multi-Cluster Architecture
+## Multi-Cluster Architecture
 
 ## Connectivity Levels
 
